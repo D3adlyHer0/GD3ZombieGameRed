@@ -12,11 +12,11 @@
 			]
 		},
 		{
-			"Name": "Water",
+			"Name": "Landmass",
 			"Enabled": true
 		},
 		{
-			"Name": "Landmass",
+			"Name": "Water",
 			"Enabled": true
 		}
 	]
